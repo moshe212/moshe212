@@ -6,7 +6,7 @@ You've reached Moshe's Git! Welcome aboard 👋
 I'm FullStack Developer, who also likes graphic design and football.  <br/>
 I have two cute kids and i live in hashmonaim (near modiin).
 
-Feel free to leave a [message](mailto:moshe212@gmail.com) or connect me on [LinkedIn](https://www.linkedin.com/in/moshe-ansbacher-2960b438)<br/>
+Feel free to leave a [Message](mailto:moshe212@gmail.com) or connect me on [LinkedIn](https://www.linkedin.com/in/moshe-ansbacher-2960b438)<br/>
 
 ---
 #### Tech Stack <br/>
