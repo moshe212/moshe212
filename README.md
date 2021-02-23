@@ -4,7 +4,7 @@ You've reached Moshe's Git! Welcome aboard 👋
 
 #### About me
 I'm FullStack Developer, who also likes graphic design and football.  <br/>
-I have tow cute kids and i live in hashmonaim (near modiin).
+I have two cute kids and i live in hashmonaim (near modiin).
 
 Feel free to leave a [message](mailto:moshe212@gmail.com) or connect me on [LinkedIn](https://www.linkedin.com/in/moshe-ansbacher-2960b438)<br/>
 
@@ -20,6 +20,8 @@ Feel free to leave a [message](mailto:moshe212@gmail.com) or connect me on [Link
 ![](https://github.com/moshe212/moshe212/blob/main/vscode.svg)  ![](https://github.com/moshe212/moshe212/blob/main/github.svg)
 ![](https://github.com/moshe212/moshe212/blob/main/heroku.svg) <br/>
 ![](https://github.com/moshe212/moshe212/blob/main/win.svg) ![](https://github.com/moshe212/moshe212/blob/main/ps.svg)
+
+---
 <!--
 **moshe212/moshe212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
