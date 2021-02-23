@@ -5,7 +5,7 @@
 I'm FullStack Developer, who also likes graphic design and football.
 I have tow cute kids and i live in hashmonaim (near modiin).
 
-Feel free to leave a [message](moshe212@gmail.com) or connect me on [LinkedIn](https://www.linkedin.com/in/moshe-ansbacher-2960b438)
+Feel free to leave a [message](mailto:moshe212@gmail.com) or connect me on [LinkedIn](https://www.linkedin.com/in/moshe-ansbacher-2960b438)
 
 <!--
 **moshe212/moshe212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
