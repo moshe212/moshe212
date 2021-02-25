@@ -22,6 +22,10 @@ Feel free to leave a [Message](mailto:moshe212@gmail.com) or connect me on [Link
 ![](https://github.com/moshe212/moshe212/blob/main/win.svg) ![](https://github.com/moshe212/moshe212/blob/main/ps.svg)
 
 ---
+
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning ...
+
 <!--
 **moshe212/moshe212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
