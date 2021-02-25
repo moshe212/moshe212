@@ -23,8 +23,8 @@ Feel free to leave a [Message](mailto:moshe212@gmail.com) or connect me on [Link
 
 ---
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on [FinanceManager WebApp](https://github.com/moshe212/finance_manager)
+- 🌱 I’m currently learning Flutter
 
 <!--
 **moshe212/moshe212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
